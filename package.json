@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/lbullon86/Taller-Nodejs/issues"
   },
-  "homepage": "https://github.com/lbullon86/Taller-Nodejs#readme"
+  "homepage": "https://github.com/lbullon86/Taller-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "voka": "^1.2.0"
+  }
 }
