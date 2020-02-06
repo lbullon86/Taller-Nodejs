@@ -1,0 +1,19 @@
+{
+  "name": "taller-nodejs",
+  "version": "1.0.0",
+  "description": "taller everis node+express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbullon86/Taller-Nodejs.git"
+  },
+  "author": "Luis González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbullon86/Taller-Nodejs/issues"
+  },
+  "homepage": "https://github.com/lbullon86/Taller-Nodejs#readme"
+}
